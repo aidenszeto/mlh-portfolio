@@ -12,3 +12,18 @@
   company: ELFIN
   dates: Fall 2020 - Present
   logo: elfin.png
+  
+- role: Backend Engineer
+  company: Softblue Nigeria
+  dates: Jan 2021 - May 2021
+  logo: fellowship.svg
+
+- role: PHP/SQL Developer Intern
+  company: Bincon Dev Center
+  dates: Oct 2020 - Dec 2020
+  logo: cdk.png
+
+- role: Backend Developer
+  company: Gratis Digital World
+  dates: July 2021 - Present
+  logo: cdk.png
